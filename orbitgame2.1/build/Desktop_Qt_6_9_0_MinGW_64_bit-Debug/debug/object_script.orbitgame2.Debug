@@ -1,0 +1,11 @@
+debug/Gamescene.o
+debug/collectibleitem.o
+debug/main.o
+debug/mainwindow.o
+debug/obstacleitem.o
+debug/trackdata.o
+debug/qrc_resource.o
+debug/moc_Gamescene.o
+debug/moc_collectibleitem.o
+debug/moc_mainwindow.o
+debug/moc_obstacleitem.o
