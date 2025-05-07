@@ -1,0 +1,108 @@
+[
+    {
+        "centerX": 0,
+        "centerY": 130,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 30
+            },
+            {
+                "angleDegrees": 120
+            },
+            {
+                "angleDegrees": 240
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 60
+            },
+            {
+                "angleDegrees": 150
+            },
+            {
+                "angleDegrees": 210
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -110,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 0
+            },
+            {
+                "angleDegrees": 180
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 45
+            },
+            {
+                "angleDegrees": 135
+            },
+            {
+                "angleDegrees": 225
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -280,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 0
+            },
+            {
+                "angleDegrees": 120
+            },
+            {
+                "angleDegrees": 210
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 45
+            },
+            {
+                "angleDegrees": 150
+            },
+            {
+                "angleDegrees": 300
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -430,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 45
+            },
+            {
+                "angleDegrees": 135
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 0
+            },
+            {
+                "angleDegrees": 180
+            },
+            {
+                "angleDegrees": 225
+            }
+        ]
+    }
+]
