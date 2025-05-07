@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>level1.json</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>softmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.png</file>
+    </qresource>
+</RCC>
