@@ -1,0 +1,281 @@
+[
+    {
+        "centerX": 0,
+        "centerY": 80,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 30 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 240 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 60 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 210 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -160,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -330,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 210 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 300 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -480,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -700,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 30 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 240 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 60 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 210 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -940,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1110,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 210 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 300 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1260,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1480,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 30 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 240 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 60 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 210 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1720,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1890,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 210 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 300 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2040,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2260,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 30 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 240 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 60 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 210 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2500,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2670,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 210 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 300 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2820,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 },
+            { "angleDegrees": 225 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -3040,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 30 },
+            { "angleDegrees": 120 },
+            { "angleDegrees": 240 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 60 },
+            { "angleDegrees": 150 },
+            { "angleDegrees": 210 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -3280,
+        "radius": 110,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0 },
+            { "angleDegrees": 180 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 45 },
+            { "angleDegrees": 135 },
+            { "angleDegrees": 225 }
+        ]
+    }
+]
