@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>level1.json</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>softmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>spaceship.png</file>
+        <file>spaceship_trail.gif</file>
+        <file>collectible.png</file>
+        <file>obstacle.png</file>
+        <file>background.png</file>
+    </qresource>
+    <qresource prefix="/animations">
+        <file>explosion.gif</file>
+        <file>collect_effect.gif</file>
+    </qresource>
+</RCC>
