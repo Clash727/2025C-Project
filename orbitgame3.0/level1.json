@@ -1,0 +1,1979 @@
+[
+    {
+        "centerX": 0,
+        "centerY": 0,
+        "radius": 400,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -500,
+        "radius": 100,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            { "angleDegrees": 0, "radialOffset": 10.0 }
+        ],
+        "obstacles": [
+            { "angleDegrees": 30, "radialOffset": -10.0 },
+            { "angleDegrees": 310, "radialOffset": 10.0 }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -680,
+        "radius": 80,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 310,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -910,
+        "radius": 150,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 60,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 280,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 135,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 315,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 210,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 160,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1110,
+        "radius": 50,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -1330,
+        "radius": 170,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -1581,
+        "radius": 81,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 333,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1788,
+        "radius": 126,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 130,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 205,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 40,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 152,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 345,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -1976,
+        "radius": 62,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 180,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2153,
+        "radius": 115,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 16,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 120,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 55,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 340,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2428,
+        "radius": 160,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -2658,
+        "radius": 70,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 36,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -2861,
+        "radius": 133,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 145,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 301,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 220,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 188,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 355,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 125,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -3076,
+        "radius": 82,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 140,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 32,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 329,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 199,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -3284,
+        "radius": 126,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 58,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 11,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 166,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 297,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 333,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 133,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 27,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 201,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 232,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -3610,
+        "radius": 200,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -3878,
+        "radius": 68,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -4094,
+        "radius": 148,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 135,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 50,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 350,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -4300,
+        "radius": 58,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -4489,
+        "radius": 131,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 33,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 148,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 196,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 121,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 342,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 0,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 225,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -4717,
+        "radius": 97,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 45,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 155,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 310,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 205,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -4915,
+        "radius": 101,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 125,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 170,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 340,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -5144,
+        "radius": 128,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 60,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 140,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 175,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 335,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -5347,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 180,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -5592,
+        "radius": 170,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -5825,
+        "radius": 63,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 145,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 333,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -6033,
+        "radius": 145,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 55,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 340,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 225,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 3,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -6246,
+        "radius": 68,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 177,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 37,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -6439,
+        "radius": 125,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 140,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 20,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 330,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -6634,
+        "radius": 70,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 130,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -6849,
+        "radius": 145,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 35,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 150,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 205,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 320,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 5,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 125,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 58,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -7089,
+        "radius": 95,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 130,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 188,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -7295,
+        "radius": 111,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 60,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 145,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 315,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -7527,
+        "radius": 121,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 44,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 130,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 330,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 12,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -7723,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 195,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 35,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -8148,
+        "radius": 350,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -8573,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 145,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -8783,
+        "radius": 135,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 40,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 155,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 210,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 320,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 5,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -8983,
+        "radius": 65,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 330,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -9198,
+        "radius": 150,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 130,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 185,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 20,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 220,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 340,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -9428,
+        "radius": 80,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 140,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 35,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 315,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -9633,
+        "radius": 125,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 60,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 215,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 325,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 125,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -9828,
+        "radius": 70,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 160,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -10033,
+        "radius": 135,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 45,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 135,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 195,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 10,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 160,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 345,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -10258,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 40,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -10478,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 140,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 320,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 165,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 235,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 350,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -10908,
+        "radius": 300,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -11283,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 145,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 35,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -11508,
+        "radius": 150,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 130,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 45,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 155,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 210,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 330,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 60,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 350,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -11718,
+        "radius": 60,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 125,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 25,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -11923,
+        "radius": 145,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 33,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 140,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 55,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 345,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -12148,
+        "radius": 80,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 25,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 200,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -12353,
+        "radius": 125,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 40,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 135,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 315,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 160,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -12553,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 175,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -12768,
+        "radius": 140,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 125,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 45,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 210,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 335,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 60,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -12998,
+        "radius": 90,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 130,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 195,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -13213,
+        "radius": 125,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 140,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 320,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 15,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 235,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -13403,
+        "radius": 65,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 185,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -13718,
+        "radius": 250,
+        "tangentAngleDegrees": 0,
+        "collectibles": [],
+        "obstacles": []
+    },
+    {
+        "centerX": 0,
+        "centerY": -14048,
+        "radius": 80,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 140,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 190,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -14273,
+        "radius": 145,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 130,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 205,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 330,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 15,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -14498,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 160,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 35,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -14718,
+        "radius": 145,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 120,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 175,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 310,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 40,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 145,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 210,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 340,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 5,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -14928,
+        "radius": 65,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 135,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 305,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -15128,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 125,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 180,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 300,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 50,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 150,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 215,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 330,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -15328,
+        "radius": 70,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 45,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -15533,
+        "radius": 135,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 20,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 120,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 170,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 305,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 40,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 145,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 200,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 335,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -15743,
+        "radius": 75,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 155,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 320,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -15943,
+        "radius": 125,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 10,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 135,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 185,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 315,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 45,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 160,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 220,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -16133,
+        "radius": 65,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 190,
+                "radialOffset": -10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 50,
+                "radialOffset": 10.0
+            }
+        ]
+    },
+    {
+        "centerX": 0,
+        "centerY": -16328,
+        "radius": 130,
+        "tangentAngleDegrees": 0,
+        "collectibles": [
+            {
+                "angleDegrees": 30,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 140,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 195,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 320,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 60,
+                "radialOffset": 10.0
+            }
+        ],
+        "obstacles": [
+            {
+                "angleDegrees": 120,
+                "radialOffset": -10.0
+            },
+            {
+                "angleDegrees": 165,
+                "radialOffset": 10.0
+            },
+            {
+                "angleDegrees": 230,
+                "radialOffset": -10.0
+            }
+        ]
+    },
+    {
+           "centerX": 0,
+           "centerY": -16688,
+           "radius": 230,
+           "tangentAngleDegrees": 0,
+           "collectibles": [],
+           "obstacles": []
+       }
+]
