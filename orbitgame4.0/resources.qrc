@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>level1.json</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>softmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>spaceship.png</file>
+        <file>spaceship_trail.gif</file>
+        <file>background.png</file>
+        <file>obstacle.png</file>
+        <file>sun.png</file>
+        <file>mercury.png</file>
+        <file>neptune.png</file>
+        <file>saturn.png</file>
+        <file>uranus.png</file>
+        <file>venus.png</file>
+        <file>earth.png</file>
+        <file>jupiter.png</file>
+        <file>mars.png</file>
+        <file>collectible.png</file>
+        <file>game_background.png</file>
+        <file>game_title.png</file>
+        <file>close_button.png</file>
+        <file>start_button.png</file>
+        <file>tutorial_button.png</file>
+    </qresource>
+    <qresource prefix="/animations">
+        <file>collect_effect.gif</file>
+        <file>explosion.gif</file>
+        <file>tutorial_button.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>MyChineseFont.ttf</file>
+        <file>MyEnglishFont.ttf</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>collect.wav</file>
+        <file>hit.wav</file>
+    </qresource>
+    <qresource prefix="/videos">
+        <file>intro_video.mp4</file>
+        <file>end_video.mp4</file>
+    </qresource>
+</RCC>
